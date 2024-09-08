@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
-# Script to display all active IPv4 IPs on the machine
+# Hello whis is AMAZINGG
 ifconfig | grep -oP 'inet \K[\d.]+'
+
